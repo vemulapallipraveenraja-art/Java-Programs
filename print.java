@@ -1,6 +1,6 @@
-public class{
-public static void main(String[] args){
-    System.out.println(x:"Hello github");
+public class print {
+    public static void main(String[] args) {
+        System.out.println("Hello GitHub");
     }
 }
 
